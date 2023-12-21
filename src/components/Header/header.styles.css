@@ -1,0 +1,46 @@
+body {
+  background: #ededed;
+}
+
+.header-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+.header-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 50px;
+}
+
+.navbar-brand {
+  float: none;
+  height: unset;
+  padding: 0px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.language-logo {
+  width: 28px;
+  height: 28px;
+}
+
+.language-switch-button {
+  display: flex;
+  border: none;
+  background-color: transparent;
+  align-items: center;
+  cursor: pointer;
+}
+
+@media (min-width: 1280px) {
+  .language-switch-button {
+    display: flex;
+  }
+}
