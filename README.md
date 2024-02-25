@@ -6,4 +6,4 @@ Welcome to React Chess! This is a simple yet powerful chess application built us
 2 )Responsive Design: Play chess on any device with a responsive design that adapts to various screen sizes.<br>
 3 )Legal Move Highlighting: See legal moves highlighted on the board to improve your game and learn new strategies.<br>
 4 )Undo Move: Made a mistake? No worries! You can undo your last move and try again.<br>
-5 )Checkmate Detection: The application automatically detects checkmate and ends the game.<br>
+5 )Checkmate Detection: The application automatically detects checkmate and ends the game.<br>   
